@@ -3,7 +3,7 @@
 
 En ingeniería de software, **SOLID** (Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion) es un acrónimo mnemónico introducido por Robert C. Martin a comienzos de la década del 20003 que representa cinco principios básicos de la programación orientada a objetos y el diseño. Cuando estos principios se aplican en conjunto es más probable que un desarrollador cree un sistema que sea fácil de mantener y ampliar con el tiempo.3 Los principios SOLID son guías que pueden ser aplicadas en el desarrollo de software para eliminar código sucio provocando que el programador tenga que refactorizar el código fuente hasta que sea legible y extensible.
 
-### Significado:
+> ### Significado:
 
 + **S** : **SRP** : (Noción de responsabilidad única): 
 Un objeto debe tener sólo una responsabilidad.
